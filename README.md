@@ -1,28 +1,4 @@
-<!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
-## LuNiZz Sıkça Sorulan Sorular Sayfasına Hoş Geldin!
 
-### Topluluk ve Sosyal Medya Hesapları >>> https://www.lunizz.com       
-
-
-Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoş geldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
-Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
-
-Burada [*"bana sıkça sorulmuş sorulara"*](/Belgeler/SikcaSorulanSorular.md) bir göz atarak başlamanı öneririm, buranın [en altında](#index) menüler halinde birçok kaynak var, her birine bir göz at.
-
-Ayrıca yayın geçmişinde yer alan videoların toplu playlist hali de bulunuyor, linkler arasında ve görsel olarak nasıl izleyebileceğini anlattım.
-
-[*"Hacking The TEMEL video serisi"*](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ) bu iş için başlangıç konularını irdeliyor, eğer yeni başladıysan ona özellikle göz atmanı tavsiye ederim.  
-Aramıza hoş geldin ve görüşürüz!
-
-#### *~LuNiZz*    
-
-- ##### Aşağıda sınıflandırdığımız linklerin her birinin içinde delidumrul kaynaklar var. Bir bak istersen ;)
-
-- ##### [*Sıkça Sorulan Sorular*](/Belgeler/SikcaSorulanSorular.md) bölümü, siber guvenlik ile ilgili yoneltilen **sık** sorularin bulundugu belge.
-
-- ##### Ancak sevgili dostum, yerine olsam kendime şunu sorarım: "Yeterince ingilizce biliyor muyum?" buradaki kaynaklar bir yere kadar tekeri döndürse bile, **ingilicce** olmadan olmaz... 
-### Altın Kural: "İngilizce Ögren..." bilgin olsun.
----
 
 <a name="index"></a>
 <h1 align="center">Bu reponun içindeki belgeler:</h1>
